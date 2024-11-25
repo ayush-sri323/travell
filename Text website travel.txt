@@ -55,7 +55,8 @@ section__title
 Subscribe Our <br> Newsletter
 
 subscribe__description
-Subscribe to our newsletter and get a special 30% discount.
+For booking your slot contact us on 9411136119 or 8979139662.Or visit us on below address.
+Revive Adventure, Kailash gate laxman jhula road Rishikesh.
 
 * FOOTER
 footer__description
